@@ -22,19 +22,19 @@
   font-family: 'Rubik', sans-serif;
   font-size: 60px;
   position: absolute-left;
-  width: 600px;
+  width: 50%;
   height: 1200px;
   flex-direction: row;
 
 }
 
 .right {
-  background: white;
+  background: #ECECF6;
   color:#EA7972;
   font-size: 60px;
   font-family: 'Rubik', sans-serif;
   position: absolute-right;
-  width: 600px;
+  width: 50%;
   height: 1200px;
   flex-direction: row;
 }
