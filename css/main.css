@@ -6,6 +6,11 @@
 .lightbeige { color: #F6DFD4; }
 .beige 			{ color: #CBA08E; }
 
+.hello {
+  width: 10px;
+  height: 10px;
+}
+
 .row {
   height: 1200px;
   display: flex;
@@ -49,3 +54,16 @@
   border: 1px solid grey;
   font-size: 10px;
 }
+
+.nav {
+  color: #ee7600;
+  font-family: 'Rubik', sans-serif;
+  font-size: 15px;
+  display: block;
+  float: right;
+  align: top;
+}
+/*
+.parent {
+
+}*/
